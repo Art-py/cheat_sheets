@@ -77,3 +77,8 @@ $ cp file_name.txt /home/username/dir_name_2/new_file_name.txt
 ```
 
 **clear** — очистить всю выведенную в консоль информацию, начать «с чистого листа».
+
+**nano** — открыть файл в текстовом редакторе.
+```bash
+$ nano dev/hello.py
+```
